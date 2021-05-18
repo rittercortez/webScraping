@@ -1,0 +1,9 @@
+### INTALACIÓN PARA HACER SCRAPING ###
+
+- pip install requests             : para hacer requerimientos a un servidor
+- pip install beautifulsoup4        : para parsear los HTML
+- pip install lxml                 : para parsear los HTML (también)
+- pip install selenium             : para hacer extracciones dinamicas
+- pip install Pillow               : para hacer extraccion de imagenes
+- pip install pymongo              : para hacer guardado de información en BASE DE DATOS
+- pip install scrapy               : para requerimientos y extraccion de DATOS
