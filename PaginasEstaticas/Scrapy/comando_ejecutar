@@ -1,0 +1,9 @@
+Comando para ejecutar nuestro script y crear nuestro archivo
+opcion 1:
+    # arrancamos nuestro scrapy y la funcion runspider para luego introducir el nombre de nuestro archivo
+    # y crear el archivo en este caso tipo csv con los datos extraidos de nuestra web
+
+    scrapy runspider scrapy1_stackoverflow.py -o prueba.csv -t csv
+
+opcion2 (json):
+    scrapy runspider scrapy_beautiful_beteve.py -o scr_beau_beteve.json -t json
