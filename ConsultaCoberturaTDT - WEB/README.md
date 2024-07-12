@@ -34,3 +34,6 @@ La aplicación realiza una búsqueda automatizada en la página web oficial de l
 - **PIL (Pillow)**: Biblioteca de Python para manipulación de imágenes.
 - **Threading**: Módulo de Python utilizado para manejar la concurrencia y mejorar la respuesta de la GUI.
 
+![image](https://github.com/user-attachments/assets/7b63c97c-6e33-4d54-9ecc-4eb134d423ad)
+![image](https://github.com/user-attachments/assets/f77036a8-3d7b-4835-a267-02e898580356)
+
